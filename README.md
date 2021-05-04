@@ -1,1 +1,1 @@
-# Springboard-Capstone_3
+# Springboard-Airbnb Booking price prediction model
